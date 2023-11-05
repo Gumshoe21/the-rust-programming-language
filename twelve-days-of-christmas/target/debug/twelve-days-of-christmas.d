@@ -1,0 +1,1 @@
+/Users/gumshoe/code/rust/projects/the-rust-programming-language/twelve-days-of-christmas/target/debug/twelve-days-of-christmas: /Users/gumshoe/code/rust/projects/the-rust-programming-language/twelve-days-of-christmas/src/main.rs
